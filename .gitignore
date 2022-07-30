@@ -36,6 +36,7 @@ yarn-error.log
 /libpeerconnection.log
 testem.log
 /typings
+/F:\weatherapp\src\app\apixu.service.ts
 
 # System files
 .DS_Store
